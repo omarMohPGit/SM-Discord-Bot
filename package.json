@@ -1,0 +1,28 @@
+{
+  "name": "discbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.5",
+    "discord.js": "^13.8.1",
+    "dotenv": "^16.0.1",
+    "download": "^8.0.0",
+    "fs": "^0.0.1-security",
+    "fs.promises": "^0.1.2",
+    "get-urls": "^11.0.0",
+    "https": "^1.0.0",
+    "node-fetch": "^3.2.6",
+    "puppeteer": "^15.3.0",
+    "puppeteer-extra": "^3.3.0",
+    "puppeteer-extra-plugin-stealth": "^2.10.1",
+    "request": "^2.88.2"
+  }
+}
